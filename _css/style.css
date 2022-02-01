@@ -1,0 +1,38 @@
+@charset "UTF-8";
+body {
+    background: url(/_imagens/imagem\ qudriculada\ bla\ bla.png) no-repeat;
+    background-size: cover;
+    color: rgb(6, 6, 41);
+}
+
+div#interface h1 {
+    color: black;
+    position: relative;
+    text-shadow: 2px 2px blue;
+    font-size: 80px;
+    left: 220px;
+    top: -100px;
+    font-family: 'Alegreya', 'serif';
+}
+
+div#interface {
+    width: 1000px;
+    border: 2px black solid;
+    height: 1000px;
+    margin: 0px 200px 0px 200px;
+    background-color: white;
+}
+
+.bandeira-esquerda {
+    position: relative;
+    margin: 10px;
+    left: 7px;
+    top: 0px;
+}
+
+.bandeira-direita {
+    position: relative;
+    margin: 10px;
+    left: 630px;
+    top: 0px;
+}
