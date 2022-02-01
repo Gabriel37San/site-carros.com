@@ -37,6 +37,12 @@ div#interface {
     top: 0px;
 }
 
+div#carouselExampleControls {
+    position: relative;
+    left: 500px;
+    top: 200px;
+}
+
 
 /*fotos do site*/
 
