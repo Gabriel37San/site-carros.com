@@ -19,9 +19,9 @@ div#interface h1 {
 
 div#interface {
     width: 1000px;
-    border: 2px black solid;
     height: 1000px;
     margin: 0px 200px 0px 200px;
+    border: 2px black solid;
     background-color: white;
 }
 
@@ -45,6 +45,35 @@ div#carouselExampleControls {
     top: 400px;
     width: 400px;
     height: 300px;
+}
+
+a#botao1 {
+    position: relative;
+    top: 100px;
+}
+
+a#botao2 {
+    position: relative;
+    top: 10px;
+    left: -15px;
+}
+
+ul#listano {
+    list-style: none;
+}
+
+ul#album-fotos {
+    list-style: none;
+}
+
+ul#album-fotos {
+    position: relative;
+    left: 25px;
+    top: 20px;
+}
+
+ul#hamepage {
+    list-style: none;
 }
 
 
