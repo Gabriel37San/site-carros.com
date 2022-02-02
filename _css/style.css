@@ -39,23 +39,24 @@ div#interface {
     top: 0px;
 }
 
-div#carouselExampleControls {
-    position: relative;
-    left: 400px;
-    top: 400px;
-    width: 400px;
-    height: 300px;
+div#carouselExampleSlidesOnly {
+    position: absolute;
+    left: 350px;
+    top: 250px;
+    width: 700px;
+    height: 700px;
 }
 
 a#botao1 {
     position: relative;
-    top: 100px;
+    top: 70px;
+    left: 350px;
 }
 
 a#botao2 {
     position: relative;
     top: 10px;
-    left: -15px;
+    left: 400px;
 }
 
 ul#listano {
@@ -74,6 +75,12 @@ ul#album-fotos {
 
 ul#hamepage {
     list-style: none;
+}
+
+h3 {
+    position: relative;
+    top: 500px;
+    margin-left: 20px;
 }
 
 
@@ -121,7 +128,7 @@ ul#album-fotos li#fotos01:hover {
 }
 
 ul#album-fotos li#fotos02 {
-    background: url('../_imagens/galeria-02.jpg') no-repeat;
+    background: url('/Acuma/img.carros2.jpg') no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -133,7 +140,7 @@ ul#album-fotos li#fotos02:hover {
 }
 
 ul#album-fotos li#fotos03 {
-    background: url('../_imagens/galeria-03.jpg') no-repeat;
+    background: url('/Acuma/img.carros3.jpg') no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -145,7 +152,7 @@ ul#album-fotos li#fotos03:hover {
 }
 
 ul#album-fotos li#fotos04 {
-    background: url('../_imagens/galeria-04.jpg') no-repeat;
+    background: url('/Acuma/img.carros4.jpg') no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -157,7 +164,7 @@ ul#album-fotos li#fotos04:hover {
 }
 
 ul#album-fotos li#fotos05 {
-    background: url('../_imagens/galeria-05.jpg') no-repeat;
+    background: url('/Acuma/img.caros5.jpg') no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
@@ -169,13 +176,133 @@ ul#album-fotos li#fotos05:hover {
 }
 
 ul#album-fotos li#fotos06 {
-    background: url('../_imagens/galeria-06.jpg') no-repeat;
+    background: url('/Acuma/img.carros6.jpg') no-repeat;
     background-position: 50% 50%;
     background-size: 400px 400px;
     background-color: #ffffff;
 }
 
 ul#album-fotos li#fotos06:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#fotos07 {
+    background: url('/Acuma/img.carros7.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#fotos07:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#fotos08 {
+    background: url('/Acuma/img.carros8.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#fotos08:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#fotos09 {
+    background: url('/Acuma/img.carros9.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#fotos09:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#fotos10 {
+    background: url('/Acuma/img.carros10.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#fotos10:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#fotos11 {
+    background: url('/Acuma/img.carros11.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#fotos11:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#fotos12 {
+    background: url('/Acuma/img.carros12.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#fotos12:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#fotos13 {
+    background: url('/Acuma/img.carros13.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#fotos13:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#fotos14 {
+    background: url('/Acuma/img.carros14.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#fotos14:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#fotos15 {
+    background: url('/Acuma/img.carros15.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#fotos15:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#fotos16 {
+    background: url('/Acuma/img.carros16.jpg') no-repeat;
+    background-position: 50% 50%;
+    background-size: 400px 400px;
+    background-color: #ffffff;
+}
+
+ul#album-fotos li#fotos16:hover {
     background-position: 0px 0px;
     background-size: 200px 200px;
 }
