@@ -63,7 +63,7 @@ a#proximo {
 
 img#especarro {
     position: relative;
-    left: 680px;
+    left: 640px;
     top: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
 }
@@ -71,4 +71,26 @@ img#especarro {
 header#cabecalho {
     border-bottom: 2px black solid;
     height: 180px;
+}
+
+section#corpo {
+    position: relative;
+    display: block;
+    left: 10px;
+    top: -140px;
+    border: 1px black solid;
+    width: 620px;
+    height: 770px;
+    margin-right: 0px;
+    text-align: justify;
+}
+
+aside#lateral {
+    position: relative;
+    display: block;
+    border: 1px black solid;
+    width: 350px;
+    height: 600px;
+    left: 638px;
+    top: -740px;
 }
