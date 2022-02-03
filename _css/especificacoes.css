@@ -1,0 +1,74 @@
+@charset "UTF-8";
+body {
+    background: url(/_imagens/imagem\ qudriculada\ bla\ bla.png) no-repeat;
+    background-size: cover;
+    color: rgb(6, 6, 41);
+}
+
+div#interface {
+    width: 1000px;
+    height: 1000px;
+    margin: 0px 200px 0px 200px;
+    border: 2px black solid;
+    background-color: white;
+}
+
+div#interface h1 {
+    color: black;
+    position: relative;
+    text-shadow: 4px 4px rgb(240, 240, 245);
+    font-size: 80px;
+    left: 220px;
+    top: -100px;
+    font-family: 'Alegreya', 'serif';
+    background-color: rgb(255, 0, 0);
+    width: 570px;
+}
+
+ul#especif {
+    list-style: none;
+}
+
+a#inicio {
+    position: relative;
+    top: -100px;
+    left: 400px;
+}
+
+a#voltar {
+    position: relative;
+    top: -140px;
+    left: -20px;
+}
+
+a#proximo {
+    position: relative;
+    top: -175px;
+    left: 870px;
+}
+
+.bandeira-esquerda {
+    position: relative;
+    margin: 10px;
+    left: 7px;
+    top: 0px;
+}
+
+.bandeira-direita {
+    position: relative;
+    margin: 10px;
+    left: 630px;
+    top: 0px;
+}
+
+img#especarro {
+    position: relative;
+    left: 10px;
+    top: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, .5);
+}
+
+header#cabecalho {
+    border-bottom: 2px black solid;
+    height: 180px;
+}
