@@ -17,6 +17,11 @@ div#interface h1 {
     width: 570px;
 }
 
+ul#caru {
+    position: relative;
+    display: block;
+}
+
 ul#especif {
     list-style: none;
 }

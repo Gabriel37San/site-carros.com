@@ -5,7 +5,7 @@ body {
     color: rgb(6, 6, 41);
 }
 
-div#interface h1 {
+h1#tema {
     color: black;
     position: relative;
     text-shadow: 4px 4px rgb(240, 240, 245);
@@ -79,7 +79,8 @@ ul#hamepage {
 h3 {
     position: relative;
     top: 500px;
-    margin-left: 20px;
+    margin-left: 40px;
+    text-indent: 50px;
 }
 
 ul#album-fotos {
