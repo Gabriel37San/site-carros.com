@@ -41,11 +41,11 @@ div#interface {
 }
 
 div#carouselExampleControls {
-    position: absolute;
-    left: 350px;
-    top: 250px;
+    position: relative;
+    margin: 0px auto 0px auto;
+    top: 50px;
     width: 700px;
-    height: 700px;
+    padding: 0px;
 }
 
 button.carousel-control-prev {
@@ -60,6 +60,8 @@ a#botao1 {
     position: relative;
     top: 70px;
     left: 350px;
+    height: 50px;
+    width: 50px;
 }
 
 a#botao2 {
@@ -77,10 +79,12 @@ ul#hamepage {
 }
 
 h3 {
+    top: 70px;
     position: relative;
-    top: 500px;
-    margin-left: 40px;
     text-indent: 50px;
+    text-align: justify;
+    width: 700px;
+    margin: 0px auto 0px auto;
 }
 
 ul#album-fotos {
