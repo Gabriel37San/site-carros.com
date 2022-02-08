@@ -91,6 +91,18 @@ section#corpo {
     padding-right: 10px;
 }
 
+aside#lateral b {
+    padding-right: 10px;
+}
+
+aside#lateral li {
+    padding-right: 10px;
+}
+
+aside#lateral p {
+    padding-right: 10px;
+}
+
 section#corpo li,
 p {
     text-align: justify;
@@ -98,6 +110,15 @@ p {
 
 section#corpo p {
     text-indent: 30px;
+    padding: 10px;
+}
+
+section#corpo b {
+    padding: 10px;
+}
+
+section#corpo ul {
+    padding-right: 10px;
 }
 
 aside#lateral {
