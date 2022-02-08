@@ -91,6 +91,15 @@ section#corpo {
     padding-right: 10px;
 }
 
+section#corpo li,
+p {
+    text-align: justify;
+}
+
+section#corpo p {
+    text-indent: 30px;
+}
+
 aside#lateral {
     position: relative;
     display: block;
