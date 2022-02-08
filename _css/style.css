@@ -49,19 +49,18 @@ div#carouselExampleControls {
 }
 
 button.carousel-control-prev {
-    top: -300px;
+    top: 100px;
 }
 
 button.carousel-control-next {
-    top: -300px;
+    top: 100px;
 }
 
 a#botao1 {
     position: relative;
+    text-align: center;
     top: 70px;
     left: 350px;
-    height: 50px;
-    width: 50px;
 }
 
 a#botao2 {
