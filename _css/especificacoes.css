@@ -110,7 +110,9 @@ p {
 
 section#corpo p {
     text-indent: 30px;
-    padding: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin: 0px;
 }
 
 section#corpo b {
